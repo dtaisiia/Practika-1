@@ -1,43 +1,53 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
+using BCrypt.Net;
 
 namespace Management_of_Employees
 {
+    /// <summary>
+    /// Клас для управління процесами автентифікації та авторизації користувачів.
+    /// </summary>
     public class AuthManager
     {
         private string _usersFilePath = "users.csv";
 
+        /// <summary>
+        /// Ініціалізує новий екземпляр менеджера авторизації та перевіряє наявність файлу користувачів.
+        /// </summary>
         public AuthManager()
         {
             InitializeFile();
         }
 
-        // Перевіряємо, чи є файл, якщо ні - створюємо і додаємо першого Адміна
+        /// <summary>
+        /// Перевіряє існування файлу користувачів та створює його з базовим адміністратором за відсутності.
+        /// </summary>
         private void InitializeFile()
         {
             if (!File.Exists(_usersFilePath))
             {
-                using (StreamWriter writer = new StreamWriter(_usersFilePath))
+                using (StreamWriter writer = new StreamWriter(_usersFilePath, false, Encoding.UTF8))
                 {
                     writer.WriteLine("Id,Name,Email,PasswordHash,Role");
-
-                    // Створюємо базового адміна при першому запуску програми
                     string adminHash = BCrypt.Net.BCrypt.HashPassword("admin123");
                     writer.WriteLine($"1,Головний Адмін,admin@test.com,{adminHash},Admin");
                 }
-                Console.WriteLine("Файл користувачів створено. Базовий логін: admin@test.com, пароль: admin123");
             }
         }
 
-        // Зчитуємо всіх користувачів без LINQ
+        /// <summary>
+        /// Завантажує список усіх зареєстрованих користувачів із файлу CSV.
+        /// </summary>
+        /// <returns>Колекція об'єктів користувачів.</returns>
         public List<User> LoadUsers()
         {
             List<User> users = new List<User>();
 
-            using (StreamReader reader = new StreamReader(_usersFilePath))
+            using (StreamReader reader = new StreamReader(_usersFilePath, Encoding.UTF8))
             {
-                string header = reader.ReadLine(); // Пропускаємо заголовок
+                string header = reader.ReadLine();
                 string line;
 
                 while ((line = reader.ReadLine()) != null)
@@ -59,24 +69,27 @@ namespace Management_of_Employees
             return users;
         }
 
-        // Метод для входу в систему
+        /// <summary>
+        /// Виконує перевірку облікових даних користувача для входу в систему.
+        /// </summary>
+        /// <param name="email">Електронна пошта користувача.</param>
+        /// <param name="password">Введений пароль у відкритому вигляді.</param>
+        /// <returns>Об'єкт користувача у разі успіху, або null при помилці.</returns>
         public User Login(string email, string password)
         {
             List<User> users = LoadUsers();
 
-            // Шукаємо користувача класичним циклом (без LINQ)
             foreach (User u in users)
             {
                 if (u.Email == email)
                 {
-                    // Перевіряємо, чи збігається введений пароль із хешем у файлі
                     if (BCrypt.Net.BCrypt.Verify(password, u.PasswordHash))
                     {
-                        return u; // Пароль правильний, повертаємо профайл
+                        return u;
                     }
                 }
             }
-            return null; // Якщо email не знайдено або пароль невірний
+            return null;
         }
     }
 }

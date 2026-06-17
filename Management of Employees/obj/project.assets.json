@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\1 Коміт\\Management of Employees\\Management of Employees.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\2 Коміт\\Management of Employees - Copy (2)\\Management of Employees.csproj",
       "projectName": "Management of Employees",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\1 Коміт\\Management of Employees\\Management of Employees.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\2 Коміт\\Management of Employees - Copy (2)\\Management of Employees.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\1 Коміт\\Management of Employees\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\1 Практика\\Етап 4\\2 Коміт\\Management of Employees - Copy (2)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

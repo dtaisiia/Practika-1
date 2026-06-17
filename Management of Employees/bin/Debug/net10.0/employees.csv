@@ -1,1 +1,4 @@
-Id,FullName,Position,Department,MonthlySalary,VacationDays
+﻿Id,FullName,Position,Department,MonthlySalary,VacationDays
+1,Марія Ігорівна Шевчук,Full Stack Developer,Engineering,200000,0
+2,Андрій Олександрович Коваленко,Junior Frontend Developer,Frontend Development,45000,4
+3,Максим Петрович Бондар,Full Stack Developer,Engineering,80000,6

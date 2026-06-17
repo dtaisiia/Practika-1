@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\1 \u043A\u043E\u043C\u0456\u0442\\management of employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\2 \u043A\u043E\u043C\u0456\u0442\\management of employees - copy (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\1 \u043A\u043E\u043C\u0456\u0442\\management of employees\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\2 \u043A\u043E\u043C\u0456\u0442\\management of employees - copy (2)\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\1 \u043A\u043E\u043C\u0456\u0442\\management of employees\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\2 \u043A\u043E\u043C\u0456\u0442\\management of employees - copy (2)\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\1 \u043A\u043E\u043C\u0456\u0442\\management of employees\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\2 \u043A\u043E\u043C\u0456\u0442\\management of employees - copy (2)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\1 \u043A\u043E\u043C\u0456\u0442\\management of employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|c:\\users\\asus\\desktop\\1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0435\u0442\u0430\u043F 4\\2 \u043A\u043E\u043C\u0456\u0442\\management of employees - copy (2)\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B725938-1B6A-9EA2-049E-CE9703CF170B}|Management of Employees.csproj|solutionrelative:employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,25 +34,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T19:50:33.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\EmployeeManager.cs",
               "RelativeDocumentMoniker": "EmployeeManager.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\EmployeeManager.cs",
               "RelativeToolTip": "EmployeeManager.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAywGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T19:37:57.609Z"
             },
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\User.cs",
               "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T19:31:07.364Z"
             },
@@ -72,23 +72,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthManager.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\AuthManager.cs",
               "RelativeDocumentMoniker": "AuthManager.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\AuthManager.cs",
               "RelativeToolTip": "AuthManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwCEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T19:30:32.664Z"
+              "WhenOpened": "2026-06-13T19:30:32.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\1 \u041A\u043E\u043C\u0456\u0442\\Management of Employees\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0415\u0442\u0430\u043F 4\\2 \u041A\u043E\u043C\u0456\u0442\\Management of Employees - Copy (2)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAAABEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAAAHwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-12T12:28:26.443Z",
               "EditorCaption": ""
