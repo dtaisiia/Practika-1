@@ -1,0 +1,2 @@
+Id,Name,Email,PasswordHash,Role
+1,Головний Адмін,admin@test.com,$2a$11$e0rV2AmlQI2gGpqHRkzpAeT/dhIFIpf2G9wpt9s0qp3oxteIc9s8.,Admin

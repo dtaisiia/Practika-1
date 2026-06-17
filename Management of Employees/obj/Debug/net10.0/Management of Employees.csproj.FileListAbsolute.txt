@@ -1,0 +1,18 @@
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.AssemblyInfoInputs.cache
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.AssemblyInfo.cs
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.csproj.CoreCompileInputs.cache
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.sourcelink.json
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\Management of Employees.exe
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\Management of Employees.deps.json
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\Management of Employees.runtimeconfig.json
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\Management of Employees.dll
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\Management of Employees.pdb
+D:\Github\OPAM-labs-\Management of Employees\bin\Debug\net10.0\BCrypt-Net-Next.dll
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.csproj.AssemblyReference.cache
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Manageme.92352CAB.Up2Date
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.dll
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\refint\Management of Employees.dll
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.pdb
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\Management of Employees.genruntimeconfig.cache
+D:\Github\OPAM-labs-\Management of Employees\obj\Debug\net10.0\ref\Management of Employees.dll
